@@ -1,18 +1,13 @@
-}
+{
   "symbol": "X",
+  "name": "xO",
   "address": "0x",
   "decimals": 18,
-  "name": "xO",
-  "website": "https://www.eximchain.com/",
-  "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
+  "logo": ""
   },
-  "support": {
-    "email": "",
-    "url": ""
+  "info": {
+    "website": "",
+    "whitepaper": "",
   },
   "social": {
     "blog": "",
