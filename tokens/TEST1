@@ -1,0 +1,32 @@
+}
+  "symbol": "X",
+  "address": "0x",
+  "decimals": 18,
+  "name": "xO",
+  "website": "https://www.eximchain.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/eximchain/",
+    "forum": "",
+    "github": "https://github.com/eximchain",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/EximChain/",
+    "slack": "",
+    "telegram": "https://t.me/eximchain",
+    "twitter": "https://twitter.com/EximchainEXC",
+    "youtube": ""
+  }
+}
