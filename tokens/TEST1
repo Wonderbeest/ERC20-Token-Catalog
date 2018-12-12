@@ -4,7 +4,8 @@
   "address": "0x",
   "decimals": 18
   },
-  "info": {
+  "key info": {
+    "description": "",
     "website": "",
     "whitepaper": "",
     "email": ""
