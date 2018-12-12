@@ -2,26 +2,21 @@
   "symbol": "X",
   "name": "xO",
   "address": "0x",
-  "decimals": 18,
-  "logo": ""
+  "decimals": 18
   },
   "info": {
     "website": "",
     "whitepaper": "",
+    "email": ""
   },
-  "social": {
+  "social links": {
     "blog": "",
-    "chat": "",
-    "facebook": "https://www.facebook.com/eximchain/",
-    "forum": "",
-    "github": "https://github.com/eximchain",
-    "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "https://www.reddit.com/r/EximChain/",
-    "slack": "",
-    "telegram": "https://t.me/eximchain",
     "twitter": "https://twitter.com/EximchainEXC",
+    "facebook": "https://www.facebook.com/eximchain/",
+    "telegram": "https://t.me/eximchain",
+    "chat": "",
+    "reddit": "https://www.reddit.com/r/EximChain/",
+    "github": "https://github.com/eximchain",
     "youtube": ""
   }
 }
